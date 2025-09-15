@@ -1,4 +1,4 @@
-# Employee Churn Prediction System
+# MCP Agentic AI System
 
 A comprehensive AI-powered system that predicts employee churn using machine learning models and intelligent agents. The system combines a FastAPI-based ML service, MCP (Model Context Protocol) tools, and a BeeAI framework agent to provide intelligent churn predictions with natural language explanations.
 
